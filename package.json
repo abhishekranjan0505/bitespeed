@@ -1,0 +1,11 @@
+{
+  "name": "bitespeed",
+  "version": "1.0.0",
+  "description": "bitespeed assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Ranjan",
+  "license": "ISC"
+}
